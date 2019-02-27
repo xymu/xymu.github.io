@@ -1,3 +1,5 @@
 baseurl: ""
 url: "https://xymu.github.io"
 theme: jekyll-theme-cayman
+title: Xymu - Github
+description: Github page for Xymu.
